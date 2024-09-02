@@ -1,0 +1,23 @@
+{
+  "name": "hrefs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoppedBit/hrefs.git"
+  },
+  "keywords": [
+    "atag",
+    "hrefs"
+  ],
+  "author": "PoppedBit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PoppedBit/hrefs/issues"
+  },
+  "homepage": "https://github.com/PoppedBit/hrefs#readme"
+}
